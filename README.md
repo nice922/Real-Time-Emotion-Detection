@@ -21,4 +21,4 @@ It will take several hours depends on your processor. (On i5 processor with 8 GB
 copy these two files create model folder in your project directory and paste it.
 
 <h3>run your emotion detection test file</h3><br>
-python Videotest.py
+python Videotester.py
